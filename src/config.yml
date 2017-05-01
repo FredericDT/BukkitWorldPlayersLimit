@@ -1,0 +1,5 @@
+config:
+  fallbackworld: world
+  worlds:
+    DIM1:
+      limit: 0
