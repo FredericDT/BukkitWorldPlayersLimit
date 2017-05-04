@@ -1,8 +1,7 @@
 name: WorldPlayersLimit
 main: onl.fdt.java.minecraft.bukkit.WorldPlayersLimit.Main
-version: 0.0.1
-depend: [Multiverse-Core]
-commands:
+version: 0.0.2
+author: FredericDT
 permissions:
   worldplayerslimit.admin:
     default: op

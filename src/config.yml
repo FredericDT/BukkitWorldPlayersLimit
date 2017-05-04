@@ -2,4 +2,13 @@ config:
   fallbackworld: world
   worlds:
     DIM1:
-      limit: 0
+      limit: 1
+      sign:
+        world: world
+        x: 0
+        y: 0
+        z: 0
+        text: 
+        - '%world%'
+        - '%current% / %limit%'
+        # support variables %limit% %current% %world%
